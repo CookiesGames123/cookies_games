@@ -1,0 +1,60 @@
+.new{
+    padding: 0px;
+    margin: 0px;
+    border: black solid 4px;
+    color: black;
+}
+a{
+    color: blue;
+    text-decoration: none;
+    font-size: 12px;
+}
+p{
+    font-size: 12px;
+}
+#vkod{
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+    padding: 10px;
+}
+.work{
+    color: black;
+    font-size: 18px;
+    display: flex;
+    justify-content: flex-end;
+    margin: 10px;
+    padding: 10px;
+}
+.rabochie{
+    width: 400px;
+    height: 400px;
+}
+main{
+    width: 96vw;
+    height: 490px;
+    background-color: gray;
+    background-image: url(/Cookies\ games\ sait/img/Печенькао.jpg);
+
+}
+.covid{
+  margin: 20px;
+  border-radius: 10px;
+}
+.TikTok{
+ color: blue;
+ font-size: 18px;
+}
+.megatimer{
+    font-size: 50px;
+    text-align: center;
+    font-family: "Brush Script MT", cursive;
+}
+.tiktok{
+    width: 100px;
+    height: 100px;
+}
+.telegramm{
+    width: 100px;
+    height: 100px;
+}
